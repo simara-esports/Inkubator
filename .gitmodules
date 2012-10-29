@@ -1,0 +1,3 @@
+[submodule "libs/smoke-test"]
+	path = libs/smoke-test
+	url = git://github.com/feedhenry/Node.js-Smoke-Test-App.git
