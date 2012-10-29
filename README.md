@@ -11,5 +11,6 @@ jsme tu všeci
 7
 a
 b
+c
 d
 
