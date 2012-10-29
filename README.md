@@ -10,4 +10,6 @@ jsme tu všeci
 6
 7
 a
+b
+d
 
